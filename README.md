@@ -4,4 +4,4 @@
 
 Find at: https://roxyvaught.github.io/Horiseon-Media-Management/
 
-![preview of website](.\Develop\assets\images\01-html-css-git-homework-demo.png)
+<img src=.\Develop\assets\images\01-html-css-git-homework-demo.png alt=preview of website>
